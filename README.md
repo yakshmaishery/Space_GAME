@@ -1,6 +1,6 @@
 # Prerequisites
-- Install Python3
-- Install Pygame
+- Install **Python3**
+- Install **Pygame**
 
 # Welcome window
 ![image](https://user-images.githubusercontent.com/91420481/163219057-9e22a0fb-a8f0-473b-8eda-767b20e5e430.png)
